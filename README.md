@@ -18,6 +18,8 @@ wait till all the files are loaded(about 2mins)
 
 5      .\test\nameofyourenvironment\Scripts\activate
 
+All the above 5 steps are very well mentioned in a short video https://www.youtube.com/watch?v=WtBT2U3okvA(not my video)
+
 Now if you have powershell activated this wont work
 
 ![image](https://github.com/Sanyuktaspeaks1/VSCode/assets/146638872/2384d7da-fa71-411f-8fe0-70a08c1eaa12)
