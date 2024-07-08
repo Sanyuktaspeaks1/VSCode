@@ -30,6 +30,8 @@ Click on the first option(cmd)
 Now close the terminal
 
 Open a new terminal and tadaa it will be cmd
+![image](https://github.com/Sanyuktaspeaks1/VSCode/assets/146638872/31bc16b7-a4a3-49cc-a001-c1177dffdb42)
+
 
 
 
